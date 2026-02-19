@@ -1645,6 +1645,13 @@ input, select, textarea {
 			opacity: 0.8;
 		}
 
+		#banner span.banner-text {
+			margin: 1em 0 0 0;
+			font-size: 1em;
+			color: #fff;
+			letter-spacing: -1px;
+		}
+
 /* Main */
 
 	#main {
