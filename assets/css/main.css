@@ -2072,3 +2072,38 @@ input, select, textarea {
 
 	}
 
+
+
+	/* Schedule */
+
+	@media screen and (min-width: 1680px) {
+
+		.schedule-image {
+			width: 80%;
+		}
+
+	}
+
+	@media screen and (max-width: 1680px) {
+
+		.schedule-image {
+			width: 80%;
+		}
+
+	}
+
+	@media screen and (max-width: 980px) {
+
+		.schedule-image {
+			width: 90%;
+		}
+
+	}
+
+	@media screen and (max-width: 736px) {
+
+		.schedule-image {
+			width: 100%;
+		}
+
+	}
