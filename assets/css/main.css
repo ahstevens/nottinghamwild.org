@@ -2125,3 +2125,39 @@ input, select, textarea {
 		}
 
 	}
+
+
+
+	/* Flyer */
+
+	@media screen and (min-width: 1680px) {
+
+		.flyer-image {
+			width: 80%;
+		}
+
+	}
+
+	@media screen and (max-width: 1680px) {
+
+		.flyer-image {
+			width: 80%;
+		}
+
+	}
+
+	@media screen and (max-width: 980px) {
+
+		.flyer-image {
+			width: 90%;
+		}
+
+	}
+
+	@media screen and (max-width: 736px) {
+
+		.flyer-image {
+			width: 100%;
+		}
+
+	}
