@@ -2167,3 +2167,13 @@ input, select, textarea {
 		}
 
 	}
+
+	/* Map */
+
+	@media screen {
+
+		.map-inset {
+			width: 100%;
+		}
+
+	}
